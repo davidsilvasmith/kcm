@@ -1,0 +1,7 @@
+---
+layout: null
+---
+User-Agent: *
+Allow: /
+Sitemap: {{site.data.information.url}}/sitemap.xml
+Sitemap: {{site.data.information.url}}/sitemap-news.xml

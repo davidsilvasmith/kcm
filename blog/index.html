@@ -1,0 +1,25 @@
+---
+title: KCM Insights
+subtitle: Words of Wisdom from our Chief Investment Officer.
+layout: default
+includeJoin: 1
+meta: <link rel="alternate" type="application/atom+xml" title="KCM — Atom" href="http://www.krajniakcapital.com//blog/feed.atom" />
+changeFreq: DAILY
+---
+
+<ul>
+  {% for post in paginator.posts %}
+  	{% include blog-post.html %}
+  {% endfor %}
+</ul>
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% endif %}
+</div>

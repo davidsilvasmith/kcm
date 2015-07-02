@@ -1,0 +1,14 @@
+<li class = "blg-post-item">
+<a href="{{ post.url }}">
+      <h2>{{post.title}}</h2>
+	<p class="blg-post-byline">by {{site.data.people[post.author].name}} on {{post.date | date: "%B %d, %Y" }}</p>
+	     <img src="{{ post.image | replace:"'",'%27'}}" title="{{post.title}}" alt="{{post.title}}" />
+      <p>
+      {{ post.excerpt }}
+      </p>
+      <p class="btn btn-md btn-success" role="button">READ POST</p>
+      <br />
+      <br />
+ </a>
+ <hr /> 
+</li>

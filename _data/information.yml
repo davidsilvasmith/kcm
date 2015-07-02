@@ -1,0 +1,43 @@
+# Blog Information
+title:        "KCM"
+subtitle:     "Providing an array of compelling managed investment strategies and solid, respectful, supportive relationships for individual investors.."
+logo:         /images/branding/kcm-pie.png
+
+# Company information
+company:      Krajniak Capital Management
+url:          http://www.krajniakcapital.com/
+#facebook:     BTCBulls
+#twitter:      DavidSilvaSmith
+#gplus:        '109243945202894778112'
+about_link:   /our-story/
+
+# Product Information
+product_link: /
+tagline:      "Providing an array of compelling managed investment strategies and solid, respectful, supportive relationships for individual investors."
+
+# Comments
+disqus:
+  # Eg. "exampleblog" Set to false to disable comments
+  #disqus_shortname: 
+  shortname:  false
+
+# Sharing settings
+sharing:
+  twitter:    true
+  facebook:   true
+  gplus:      true
+  hn:         false
+  
+
+# Analytics     
+analytics:
+  google: false # Add tracking code in _includes/_google-analytics.html
+    
+    
+# Google Fonts
+# eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
+google_font: 'Droid+Sans:400,700'
+  
+companyContact: todd
+primaryAuthor: todd
+  # Setup your fonts, colors etc at _assets/stylesheets/main.scss

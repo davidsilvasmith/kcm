@@ -1,0 +1,40 @@
+markdown: kramdown
+timezone: America/Detroit
+highlighter: pygments
+safe: true
+lsi: false
+permalink: none
+
+exclude:  [CNAME, Gemfile, Gemfile.lock, '*.less', gruntfile.js, custom_css, node_modules, README.md, '*.svg', '*.docx']
+include: [glyphicons-halflings-regular.svg]
+
+lsi: false
+
+sass:
+    sass_dir: css
+    style: :compressed
+
+relative_permalinks: false
+paginate: 10
+paginate_path: "blog/page:num/"
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      layout: "default"
+      image: /images/includes/index-header/financial-freedom.jpg
+      includeHeader: standard-image.html
+      #popularPostTitle:
+      changeFreq: WEEKLY
+      excerpt: KCM  provides an array of compelling managed investment strategies and solid, respectful, supportive relationships for individual investors.
+      author: todd
+  -
+    scope:
+      path: "" # empty string for all files
+      type: posts
+    values:
+      layout: "post"
+      is_post: true
+

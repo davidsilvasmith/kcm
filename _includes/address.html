@@ -1,0 +1,7 @@
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+  {%if include.param.telephone %} <span itemprop="streetAddress">{{ include.param.streetAddress}}</span>, {% endif %}
+  {%if include.param.addressLocality %} <span itemprop="addressLocality">{{ include.param.addressLocality}}</span>, {% endif %}
+  {%if include.param..addressRegion %} <span itemprop="addressRegion">{{ include.param.addressRegion}}</span> {% endif %}
+  {%if include.param.postalCode %} <span itemprop="postalCode">{{ include.param.postalCode}}</span> {% endif %}
+  {%if include.param.addressCountry %} <span itemprop="addressCountry">{{ include.param.addressCountry}}</span> {% endif %}
+</div>

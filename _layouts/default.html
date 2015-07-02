@@ -1,0 +1,143 @@
+---
+navigation:
+ - text: faq
+   url: /faq
+ - text: resources
+   url: /resources
+ - text: contact us
+   url: /contact
+ - text: about
+   url: /faq
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{page.excerpt}}">
+    {%if page.keywords %}<meta name="keywords" content ="{{page.keywords}}">{% endif %}
+    <meta name="author" content="{{site.data.people.todd.name}}">
+    <link rel="apple-touch-icon" sizes="57x57" href="/images/favicons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/images/favicons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/favicons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/images/favicons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/favicons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/images/favicons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/images/favicons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/images/favicons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/images/favicons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/images/favicons/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/images/favicons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/images/favicons/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/images/favicons/manifest.json">
+    <link rel="shortcut icon" href="/images/favicons/favicon.ico">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-TileImage" content="/images/favicons/mstile-144x144.png">
+    <meta name="msapplication-config" content="/images/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="canonical" href="{{ site.data.information.url }}{{ page.url|remove:'index.html' }}">
+    {% if site.data.information.gplus %}<link rel="publisher" href="https://plus.google.com/{{ site.data.information.gplus }}">{% endif %}
+    {% if author.gplus %}<link rel="author" href="https://plus.google.com/{{ author.gplus }}">{% endif %}
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-TileImage" content="/images/favicons/mstile-144x144.png">
+    <meta name="msapplication-config" content="/images/favicons/browserconfig.xml">
+    <meta name="application-name" content="{{ site.data.information.company }}">
+    <meta name="apple-mobile-web-app-title" content="{{ site.data.information.company }}">
+    <link rel="image_src" href="{{site.data.information.logo}}" />
+    <meta property="og:title" content="{{page.title}} {{page.subtitle}}" />
+    <meta property="og:url" content="{{site.data.information.url}}{{page.url}}" />
+    {% if page.is_post %}
+        <link rel="alternate" type="application/atom+xml" title="{{ site.data.information.name }} — Atom" href="{{ site.data.information.url }}/blog/feed.atom" />
+        <meta property="og:image" content="{{site.data.information.url}}{{ page.image }}" />
+        <meta property="og:description" content="{{page.excerpt}}" />
+        {% else %}
+
+        <meta property="og:image" content="{{site.data.information.url}}/{{site.data.information.logo}}" />
+        <meta property="og:description" content="{{site.data.information.subtitle}}" />
+{% endif %}
+    {{page.meta}}
+    <title>{{page.title}} {{page.subtitle}}</title>
+    <link href='//fonts.googleapis.com/css?family=Montserrat%7CMuli' rel='stylesheet' type='text/css'>
+    <link href="/css/main.css" rel="stylesheet" media="screen">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+            #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+            /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+               We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+    </style>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+<section class="site-nav">
+    <header>
+        <nav id="navigation">
+            <a class="brand" href="/">
+                <img src="{{ site.data.information.logo }}" alt="{{site.data.iformation.title}}">
+            </a>
+             {% assign url = page.url|remove:'index.html' %}
+                        
+                        {% for link in page.navigation %}
+                        {% assign urlSize = link.url|size %}
+
+                        <a href="{{link.url}}" title="{{link.text}}" {% if url contains link.url and urlSize > 2 %}class="active"{% endif %} {% if url == '/' and url == link.url %}class="active"{% endif %}>{{link.text}} </a>
+                        
+                        {% endfor %}
+        </nav>
+    </header>
+</section>
+
+{% if page.includeHeader %}
+ {% include {{page.includeHeader}} %}
+{% endif %}
+
+{% if page.isSideBar %}
+{{ content }}
+{% else %}
+  <main class="container">
+    {{content}}
+  </main>
+{% endif %}
+
+{% include signup-guts.html %}
+
+<footer class="site-footer">
+    <div class="container">
+        &copy; {{ site.time | date: "%Y" }} 
+        
+        <nav>
+            <a href="{{ site.data.information.url }}">{{ site.data.information.company }}</a> &middot;
+            <a href="/blog/">Blog</a> &middot;
+            <a href="/contact/">Contact Us</a>
+        </nav>
+        
+        <nav class="social">
+            {% if site.data.information.twitter %}
+            <a href="https://twitter.com/{{ site.data.information.twitter }}" title="Follow on Twitter" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+            {% endif %}
+            {% if site.data.information.facebook %}
+            <a href="https://facebook.com/{{ site.data.information.facebook }}" title="Follow on Facebook" target="_blank"><i class="fa fa-facebook-square fa-lg"></i></a>
+            {% endif %}
+            
+            {% include request-signup-link.html param='<i class="fa fa-envelope fa-lg" ></i>' %} 
+            
+            <a href="/blog/feed.atom" title="RSS Feed">
+                <i class="fa fa-rss fa-lg"></i>
+            </a>
+        </nav>
+    </div>
+</footer>
+    <script src="//code.jquery.com/jquery-2.1.3.min.js"></script>
+    <script src="/scripts/custom.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+</body>
+</html>

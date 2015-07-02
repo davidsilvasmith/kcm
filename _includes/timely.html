@@ -1,0 +1,28 @@
+{% assign workingPost = nil %}
+{% for p in site.posts %}
+  {% if p.title == page.popularPostTitle %}
+    {% assign workingPost = p %}
+    {% if page.url == p.url %}
+      {% assign workingPost = p.previous %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+    <div class="panel panel-default">
+      <div class="panel-heading text-center">
+        <h3 class="panel-title">Popular</h3>
+      </div>
+
+      <div class="panel-body">
+          <a href="{{workingPost.url}}">
+            {% assign workingPostContent = workingPost.content %}
+      			<img src="{{workingPost.image}}" alt="{{workingPost.title}}" />
+          <p>{{workingPost.excerpt}}</p>
+		      <p class="btn btn-md btn-success" role="button">READ POST</p>
+		      <br>
+		      <br>
+		  </a>
+    </div>
+  </div>
+
+
+

@@ -1,0 +1,36 @@
+---
+layout: null
+permalink: /blog/feed.atom
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:gd="http://schemas.google.com/g/2005">
+	<title>{{ site.data.information.name | xml_escape }}</title>
+	<link href="{{ site.data.information.url }}{{ page.url }}" rel="self" />
+	<link href="{{ site.data.information.url }}/" />
+	<id>{{ site.data.information.url }}/</id>
+	<updated>{{ site.time | date_to_xmlschema }}</updated>
+{% assign primaryAuthor = site.data.people[site.data.information.primaryAuthor] %}
+	<author>
+		<name>{{ primaryAuthor.name | xml_escape }}</name>
+		<uri>https://plus.google.com/{{primaryAuthor.gplus}}</uri>
+		<email>{{primaryAuthor.email}}</email>
+    	<gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="32" height="32" src="{{primaryAuthor.image}}"/>
+	</author>
+{% for post in site.posts limit:20 %}
+	<entry>
+		<id>{{ site.data.information.url }}{{ post.url }}</id>
+		<published>{{ post.date | date_to_xmlschema }}</published>
+		<updated>{% if post.updated == null %}{{ post.date | date_to_xmlschema }}{% else %}{{ post.updated | append: '@12am' | date_to_xmlschema }}{% endif %}</updated>
+		<title type="text">{{ post.title | strip_html }}</title>
+		<link href="{{ site.data.information.url }}{{ post.url }}" />
+		<content type="html">{{ post.content | xml_escape }}</content>
+		{% assign postAuthor = site.data.people[post.author] %}
+		<author>
+			<name>{{ postAuthor.name | xml_escape }}</name>
+			<uri>https://plus.google.com/{{postAuthor.gplus}}</uri>
+			<email>{{postAuthor.email}}</email>
+	    	<gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="32" height="32" src="{{postAuthor.image}}"/>
+		</author>
+	</entry>
+{% endfor %}
+</feed>
