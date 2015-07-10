@@ -1,10 +1,10 @@
 dave:
     name: David Smith
-    link: http://www.KrajniakCapital.com
+    link: /contact/david-smith/
     twitter: DavidSilvaSmith
     gplus: 109297602506769723640
     image: /images/daveSmith.jpg
-    description: David is the CTO of KCM.
+    description: Chief Technology Officer
     jobtitle: CTO
     streetAddress: 1219 1/2 Turner St.
     addressLocality: Lansing
@@ -17,8 +17,8 @@ dave:
 
 todd:
     name: Todd Krajniak
-    link: http://www.KrajniakCapital.com
-    description: Todd is the Chief Investment Officer of KCM.
+    link: /contact/todd-krajniak/
+    description: Chief Executive Officer
     jobtitle: CEO
     streetAddress: 1219 1/2 Turner St.
     addressLocality: Lansing
@@ -30,12 +30,12 @@ todd:
 
 jim:
     name: Jim Berridge
-    link: http://www.KrajniakCapital.com
-    description: Jim is the Chief Compliance Officer of KCM.
+    link: /contact/jim-berridge/
+    description: Chief Compliance Officer
     jobtitle: CCO
     streetAddress: 1219 1/2 Turner St.
     addressLocality: Lansing
     addressRegion: MI
     postalCode:  48906 
     addressCountry: USA
-    
+    email: jab@KrajniakCapital.com    

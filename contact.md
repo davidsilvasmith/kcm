@@ -11,7 +11,7 @@ permalink: /contact/
 
 {% assign names_str = 'todd,jim,dave' %}
 
-# {{ site.data.information.company }} Authors
+# {{ site.data.information.company }} Executives
 
 {% assign names_arr = names_str | split: delimiter %}
 {% for name in names_arr %}
@@ -19,8 +19,8 @@ permalink: /contact/
   <ul>
   	<div itemscope itemtype="http://schema.org/Person">
       {% if author.image and author.name %} <div itemprop="photo"><img src="{{author.image}}" alt="{{author.name}}" title="{{author.name}}"/> {% endif %}
-      {% if author.name %} <div itemprop="name"><strong>{{author.name}}</strong></div> {% endif %}
-      {% if author.description %}<div itemprop="description">{{author.description}}</div> {%endif %}
+      <a href="{{author.link}}">{% if author.name %} <div itemprop="name"><strong>{{author.name}}</strong></div> {% endif %}
+      {% if author.description %}<div itemprop="description">{{author.description}}</div> {%endif %}</a>
       {% if author.email %}<a href="mailto:{{author.email}}"><div itemprop="email">{{author.email}}</div></a>{% endif %}
     </div>
   </ul>
