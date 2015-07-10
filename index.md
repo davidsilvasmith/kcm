@@ -19,11 +19,13 @@ includeHeader: index-header.html
     <div class="col-lg-6 fillable" markdown="1">
 [<span class="link_fill"> </span>](/)
 
-##Providing Opportunity
+##We Are All In This Together
 
-As an individual trader / investor there is a path we walk that if successful usually ends with the trader living a quiet, comfortable life. Some are able to embark on this journey with their own capital. Some have to raise money through investors.  Some structure a fund to raise their stake. In 2008, I launched KCM registering as an investment advisor focusing on emerging and undervalued companies.
+In life, everyone has a different starting line.  Even so, most of us share the same goal – The financial freedom to do…….
 
-There are infinitely more great people than there are truly great opportunities. From personal experience as a small business owner prior to KCM, I know when you lift life’s boot off someone’s throat by providing them an honest opportunity, they run hard and fast with gratitude.
+For some, the focus is on multigenerational wealth preservation. Others are experiencing the eye  opening joy which accompanies establishing their first income generating core assets. And many simply want to fortify their long term ability to maintain a comfortable lifestyle.
+
+At KCM we understand this is a virtuous circle.  The better you do, the better we do.  We are all in this together.
 
 [LEARN MORE ABOUT BECOMING A REP](/become-a-rep/){: class="btn btn-primary" role="button"}
 </div>
