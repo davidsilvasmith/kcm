@@ -15,4 +15,4 @@ Todd’s life path through owning and managing companies, then seeking market kn
 
 As an organizational leader, Todd’s core people objectives surround creating and maintaining the virtuous circle where honest open ended opportunities are provided for individuals who want to personally prosper from doing good for honorable appreciative clients.
 
-Outside KCM, Todd’s wife Cheri of 16 years and their three children keep the calendar full with all things that happen with a family.
+Outside KCM, Todd’s wife Cheri of 16 years and their three children keep the calendar full with all things that happen with a family. While at MSU Todd was an All-American and Team Captain of the MSU Bowling Team (Cheri tells us the shiny green satin team jacket still exists).
