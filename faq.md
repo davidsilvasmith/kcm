@@ -18,7 +18,7 @@ KCM serves good people. Regulators want more specific words like individuals and
 
 At KCM “We’re all in this together.” means something. Plain and simple, we want people who’ve weathered life’s downturns maintaining their character and integrity. 
 
-This business is a virtuous circle.  Truly good people beget more truly good people. If at all possible, we will do what we can to find a fit for honorable individuals whose personal goal path and skill set overlap with KCM’s.
+This business is a virtuous cycle.  Truly good people beget more truly good people. If at all possible, we will do what we can to find a fit for honorable individuals whose personal goal path and skill set overlap with KCM’s.
 
 #What KCM Does for People?
 
@@ -41,6 +41,8 @@ The 4 Quadrant Managed IRA Strategy is available for risk tolerant investors who
 
 The Compelling Opportunities Strategy goals are to maintain positive absolute returns across a longer span of time while finding emerging or out of favor companies which are on their way to becoming desirable to more conservative strategies. 
 
+As a point of disclosure, there are legacy clients who are participating in either similar or entirely different strategies as outlined here.
+
 ###Individually Managed Accounts
 
 As a fee only investment adviser, KCM is a fiduciary who must act in the best interest of our clients at all times.  To achieve this we utilize the service of third party custodians.
@@ -53,19 +55,19 @@ At times, this segmentation of tasks will seem a bit bureaucratic or extraneous,
 
 ###Relationship Path
 
-1. Deliver Form ADV
+1. **Deliver Form ADV**
 Form ADV 2A and 2B are our firm’s required disclosure documents. They are     delivered at the onset of a relationship, usually by email.
-3. Complete Investor Questionnaire
+3. **Complete Investor Questionnaire**
 The Investor completes the risk tolerance questionnaire. This gives insight for tailoring the managed strategy to the Investor’s specific situation.
-3. Open Custodial Account
+3. **Open Custodial Account**
 KCM uses third party custodians. The custodian has custody of the Investor’s cash and portfolio holdings. The custodian provides reports to the Investor. KCM manages the portfolio and implements decisions on behalf of the Investor through the third party custodian, but KCM never has the ability to withdraw or deposit funds to the customer’s accounts.
-4. Complete KCM Agreement
+4. **Complete KCM Agreement**
 The Investor and KCM complete the investment supervisory agreement which outlines the terms of the relationship between the Investor and KCM.
-5. Effect the Investment Policy Statement
+5. **Effect the Investment Policy Statement**
 KCM drafts an investment policy statement which outlines specifically how the Investor’s funds will be managed. By signing the investment policy statement, the Investor acknowledges they understand and are in agreement with the parameters guiding the management of their portfolio.
-6. Fund Investor’s Custodial Account
+6. **Fund Investor’s Custodial Account**
 The Investor either deposits new funds into their new account or ‘rolls over’ existing funds from another account into their new custodial account.
-7. Implement Strategy
+7. **Implement Strategy**
 After the account is funded and the documents are approved by KCM compliance, the Investor’s funds are “put to work” in accordance with the strategy outlined in the investment policy statement.
-8. Ongoing Contact
+8. **Ongoing Contact**
 At the very least, Investors receive a quarterly email communique regarding their holdings and the third party custodian delivers account statements at least quarterly.  More frequent contact is always welcome and encouraged on an as needed basis.  For various life reasons there will be periods of frequent contact telephonically or in person initiated by either the Advisor or Investor. 
