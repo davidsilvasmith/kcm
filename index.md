@@ -28,10 +28,13 @@ For some, the focus is on multigenerational wealth preservation. Others are expe
 At KCM we understand this is a virtuous circle.  The better you do, the better we do.  We are all in this together.
 
 [LEARN MORE ABOUT BECOMING A REP](/become-a-rep/){: class="btn btn-primary" role="button"}
+
+[LEARN ABOUT OUR MANAGED ACCOUNTS](/investor/){: class="btn btn-primary" role="button"}
+
 </div>
 
 <div class="col-lg-6 fillable" markdown="1">
-![Create Optimized Content](/images/index/possible.jpg)
+![Everything is Possible](/images/index/possible.jpg "Everything is Possible")
 </div>
 </div>
 
@@ -45,14 +48,3 @@ At KCM we understand this is a virtuous circle.  The better you do, the better w
 <div class="col-lg-3 fillable" markdown="1">
 
 </div>
-
-<div class="col-lg-6 fillable" markdown="1">
-{%include cta-help-with.html %}
-</div>
-
-<div class="col-lg-3 fillable" markdown="1">
-
-</div>
-</div>
-
-
