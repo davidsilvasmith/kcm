@@ -6,9 +6,9 @@ logo:         /images/layouts/default/kcm-managed-investment-strategies.png
 # Company information
 company:      Krajniak Capital Management
 url:          http://www.krajniakcapital.com/
-#facebook:     BTCBulls
-#twitter:      DavidSilvaSmith
-#gplus:        '109243945202894778112'
+#facebook:    
+#twitter:      
+#gplus:        ''
 about_link:   /our-story/
 
 # Product Information
@@ -16,10 +16,10 @@ product_link: /
 tagline:      "Providing an array of compelling managed investment strategies and solid, respectful, supportive relationships for individual investors."
 
 # Comments
-disqus:
+#disqus:
   # Eg. "exampleblog" Set to false to disable comments
   #disqus_shortname: 
-  shortname:  false
+#  shortname:  false
 
 # Sharing settings
 sharing:
