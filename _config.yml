@@ -26,7 +26,7 @@ defaults:
       layout: "default"
       image: /images/includes/index-header/financial-freedom.jpg
       includeHeader: standard-image.html
-      #popularPostTitle:
+      popularPostTitle: Harvest Recognition
       changeFreq: WEEKLY
       excerpt: KCM  provides an array of compelling managed investment strategies and solid, respectful, supportive relationships for individual investors.
       author: todd
@@ -37,4 +37,3 @@ defaults:
     values:
       layout: "post"
       is_post: true
-
