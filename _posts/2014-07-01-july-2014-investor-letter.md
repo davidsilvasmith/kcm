@@ -103,5 +103,3 @@ I have very strong concerns about the market frothiness which has been driven by
  
 Blessings,
  
-Todd Krajniak
-CEO/CIO

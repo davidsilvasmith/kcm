@@ -89,14 +89,3 @@ For the first time in close to a year and a half, I’m getting excited about th
 There has been a slow motion sell off starting with iron ore, moving to copper, micro-cap, oil & gas.  The bond market and widely held indexes are still being propped by central banks moving to negative interest rates.  But, that will run into the ceiling of absurdity at some time. 
 
 For the foreseeable future, sober value investing is the theme.  Fancy stuff is out.
-
-Until next month, be well.
-
-Todd Krajniak
-President
- 
-KCM Managed Investment Strategies
-1219 1/2 Turner St.
-Old Town 
-Lansing, MI 48906
-517-204-9140

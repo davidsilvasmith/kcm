@@ -140,8 +140,4 @@ The Fed support of the indexes is on one hand concealing the correction from the
 We are now starting to see sectors which have sold off to deep valuation levels trying to hold support instead of continuing to drill further into absurdity.  Oil, gas, miners and coal seem to be in the process of attempting to purge the last of their sellers.
 
 Managing risk in individual issues is still the overriding concern while continuing to establish and hold positions which are working. 
- 
-Be well,
-Todd Krajniak
-CEO/CIO
-ToddKrajniak@KrajniakCapital.com
+

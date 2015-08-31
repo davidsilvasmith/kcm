@@ -79,14 +79,3 @@ This week the European Central Bank is expected to vote on implementing another 
 Until the chaos from Central Banks settles, we are stuck in this unfortunate quandary of cant’s.  Getting aggressively short has proven dangerous as every time we’ve seen the markets progress along their down side path, the central banks have temporarily spiked the markets forcing shorts to cover.  Taking longs has proven unproductive as well because the markets have offered very little follow on buying prohibiting stocks to trend productively before retracement.
 
 So we’ll keep expanding the list of great opportunities and move very cautiously until the markets begin to act favorably.
-
-Be well,
- 
-Todd Krajniak
-President
- 
-KCM Managed Investment Strategies
-1219 1/2 Turner St.
-Old Town 
-Lansing, MI 48906
-517-204-9140

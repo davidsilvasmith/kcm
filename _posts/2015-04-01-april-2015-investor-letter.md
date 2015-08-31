@@ -140,15 +140,3 @@ i.e. CLNE provides LNG/CNG fuel for approximately 40,814 trucks from [p4 of thei
 As for the parts of the market investors have been conditioned to love over the past 30 years of Federal Reserve interest rate reductions such as bonds and highly liquid equities, we are going to do whatever we can to walk gingerly through these areas only when we must.  There is a lot of work which needs to be done in mass awareness equities and fixed income as rates normalize and algos wring out all speculative froth.  
 
 Funds which hold assets that are difficult for algorithms to trade are looking attractive until we see how all this plays out.
-
-
-Until next month, be well.
-
-Todd Krajniak
-President
- 
-KCM Managed Investment Strategies
-1219 1/2 Turner St.
-Old Town 
-Lansing, MI 48906
-517-204-9140

@@ -51,8 +51,3 @@ I expect the bottom to be put in by economic responsiveness to the strengthening
 
 But… we have to wade through this initial purge of weak dollar positions.
 
-Be well,
- 
-Todd Krajniak
-CEO/CIO
-ToddKrajniak@KrajniakCapital.com

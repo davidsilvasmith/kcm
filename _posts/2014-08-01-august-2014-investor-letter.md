@@ -79,7 +79,3 @@ Patiently hold the cash waiting for good opportunities
 
 More specifically, for investor accounts, KCM is very aggressive certain stocks and the broad indexes.  But we are actively looking for more incredibly good entries within income producing positions.
  
-Be well,
- 
-Todd Krajniak
-CEO / CIO

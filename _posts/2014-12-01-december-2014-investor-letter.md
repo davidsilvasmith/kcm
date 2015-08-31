@@ -135,7 +135,3 @@ For managed accounts, we’re focusing on staying positioned very conservatively
 In terms of length of time, think this index selloff resolves itself sooner than many expect. The holidays traditionally bring lower trading volumes.  Algorithms get most of their downside price movement executed during periods where volume goes weak.  The depth of the selloff, in my mind goes to whether the central banks intervene. Without intervention, we’ll get to the indestructible level of pricing rather expeditiously.  Then we can get back to establishing long term positions. 
 
 Happy Holidays.
- 
-Todd Krajniak
-CEO/CIO
-ToddKrajniak@KrajniakCapital.com

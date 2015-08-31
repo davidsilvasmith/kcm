@@ -81,8 +81,4 @@ It looks like we are going to see a big ol’ band aid ripping market event whic
 
 For managed accounts, KCM has large cash positions.  We are looking through the carnage for great opportunities.
  
-Until next month, be well.
  
-Todd Krajniak
-CEO/CIO
-ToddKrajniak@KrajniakCapital.com
