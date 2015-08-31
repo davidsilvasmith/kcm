@@ -48,3 +48,6 @@ At KCM we understand this is a virtuous circle.  The better you do, the better w
 <div class="col-lg-3 fillable" markdown="1">
 
 </div>
+
+{% include timely.html %}
+{% include recent-posts.html %}
