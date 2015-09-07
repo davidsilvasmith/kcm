@@ -25,3 +25,14 @@ $accent: #fcb040;
 @import "syntax";
 @import "responsive";
 @import "blockquote-hack.scss";
+
+img {
+	max-width: 100%;
+}
+
+@media print {
+.site-nav #navigation a {
+    display: inline;
+  }
+
+}
