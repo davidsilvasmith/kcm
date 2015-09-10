@@ -1,6 +1,7 @@
 ---
 title: April 2015 Investor Letter
 excerpt: Welcome to Wonderland, Alice.  Central banks and their governments are pushing into the territory of even crazier. Australia now wants to tax bank deposits. Negative interest rates and other creative ways to force people into supporting the markets is the theme. 
+image: /images/posts/2015-04-01-april-2015-investor-letter/sydney-australia.jpg
 ---
 
 * TOC

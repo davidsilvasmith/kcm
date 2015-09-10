@@ -1,6 +1,7 @@
 ---
 title: July 2015 Investor Letter
 excerpt: For managed accounts we are conscious of the metastasizing intraday short selling HFT and the bloat and crush HFT strategies proliferating individual stocks and the indexes.  We are also very conscious of the repricing of debt.  This is leading to a blended mindset of principal preservation and positioning for where rotating funds will likely have to land.
+image: /images//posts/2015-07-01-july-2015-investor-letter/detroit-downtown.jpg
 ---
 
 * TOC

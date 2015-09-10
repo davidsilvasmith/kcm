@@ -1,6 +1,7 @@
 ---
 title: February 2015 Investor Letter
 excerpt: 20 rate cuts globally since the first of the year have propped the indexes. Assets which have been allowed to sell off have cratered; refer to your local gas pump. The income markets have been taking on a feel of selling softness over the past few weeks. The cabal of central banks have boxed themselves into an unpalatable position. 
+image: /images/posts/2015-02-01-february-2015-investor-letter/oil-refinery.jpg
 ---
 
 * TOC

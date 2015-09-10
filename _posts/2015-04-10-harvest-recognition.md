@@ -1,6 +1,8 @@
 ---
 title: Harvest Recognition
 excerpt: This week HVST.com “Harvest”, the finance industry’s qualitative information exchange bestowed upon KCM the highest professional honor a firm can receive.  The respect of association.
+image: /images/posts/2015-04-10-harvest-recognition/gold-medal-winner.jpg
+coverImage: /images/posts/2015-04-10-harvest-recognition/gold-medal-winner-cover.jpg
 ---
 Hello Friends,
 
