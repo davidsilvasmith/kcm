@@ -1,6 +1,8 @@
 ---
 title: December 2014 Investor Letter
 excerpt: Algorithm trading programs which bring downward pricing pressure are becoming more prominent.  It’s not my intent to sound like an alarmist. There’s just a new way of doing business that has been creeping up through the market.  It’s now front and center. The reality is, we have to respect that things are changing and we need to be prepared.
+image: /images/posts/2014-12-01-december-2014-investor-letter/christmas-party.jpg
+coverImage: /images/posts/2014-12-01-december-2014-investor-letter/christmas-party-cover.jpg
 ---
 
 * TOC
