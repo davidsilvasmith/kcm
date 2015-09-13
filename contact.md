@@ -40,12 +40,12 @@ Get in Touch
 
    {% include address.html param=companyContact %}
    
-   {%if companyContact.telephone %} Tel:<span itemprop="telephone">{{ companyContact.telephone}} </span>, {% endif %}
-   {%if companyContact.faxNumber %} Fax:<span itemprop="faxNumber">{{ companyContact.faxNumber}}</span>, {% endif %}
-   {%if companyContact.email %} E-mail: <a href="mailto:{{companyContact.email}}"><span itemprop="email">{{ companyContact.email}}</span></a> {% endif %}
-  {%if site.data.information.logo %} <img itemprop="logo" src="{{site.data.information.logo }}" /> {% endif %}
-   {%if companyContact.telephone %} Phone: <span itemprop="telephone">{{ companyContact.telephone}}</span> {% endif %}
-   {%if site.data.information.url %} <a href="{{site.data.information.url}}" itemprop="url">{{site.data.information.url}}</a> {% endif %}
+   {%if companyContact.telephone %} <div>Tel:<span itemprop="telephone">{{ companyContact.telephone}} </span></div> {% endif %}
+   {%if companyContact.faxNumber %} <div>Fax:<span itemprop="faxNumber">{{ companyContact.faxNumber}}</span></div> {% endif %}
+   {%if companyContact.email %} <div>E-mail: <a href="mailto:{{companyContact.email}}"><span itemprop="email">{{ companyContact.email}}</span></div></a> {% endif %}
+  {%if site.data.information.logo %} <div><img itemprop="logo" src="{{site.data.information.logo }}" style="max-width:200px;"/></div> {% endif %}
+   {%if companyContact.telephone %} <div>Phone: <span itemprop="telephone">{{ companyContact.telephone}}</span></div> {% endif %}
+   {%if site.data.information.url %} <div><a href="{{site.data.information.url}}" itemprop="url">{{site.data.information.url}}</a></div> {% endif %}
 </div>
 
 <hr />
