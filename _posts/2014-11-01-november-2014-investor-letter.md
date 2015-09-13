@@ -1,3 +1,8 @@
+---
+title: November 2014 Investor Letter
+excerpt: Central Banks have been taking turns adding money to the system to prop up the indexes. This is being done for a myriad of reasons ranging from targeting certain financial outcomes, consumer confidence, and maintaining their own self-importance.
+image: /images/posts/2014-11-01-november-2014-investor-letter/new-zealand.jpg
+---
 
 * TOC
 {:toc}
