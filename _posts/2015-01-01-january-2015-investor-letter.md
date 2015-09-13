@@ -1,3 +1,8 @@
+---
+title: January 2015 Investor Letter
+excerpt: We have been navigating an unprecedented period in history.  Last month I discussed the process of High Frequency Trading platforms creating senseless volatility in the made for TV indexes to push humans back from taking positions. This activity has been coincidentally occurring against central bank index supportive intervention.
+image: /images/posts/2015-01-01-january-2015-investor-letter/kcm-january.jpg
+---
 
 * TOC
 {:toc}
