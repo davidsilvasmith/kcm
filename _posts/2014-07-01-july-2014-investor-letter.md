@@ -1,3 +1,8 @@
+---
+title:  July 2014 Investor Letter
+excerpt: There’s a lot going on in the world which looks like complete chaos, but the temperament of the people who protect money is still quite complacent.  
+image: /images/posts/2014-07-01-july-2014-investor-letter/fireworks.jpg
+---
 
 * TOC
 {:toc}
