@@ -1,6 +1,7 @@
 ---
 title: September 2014 Investor Letter
 excerpt: This market has gone from “getting soft” over the past several months as the dollar has begun to gain strength, to very little is working and many positions have to be closed or trimmed back in size. The focus is shifting towards capital preservation.
+image: /images/posts/2014-09-01-september-2014-investor-letter/leaves.jpg
 ---
 
 
