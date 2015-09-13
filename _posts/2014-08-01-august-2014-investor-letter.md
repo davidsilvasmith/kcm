@@ -1,6 +1,7 @@
 ---
 title:  August 2014 Investor Letter
 excerpt: The post QE world is upon us. We now have a shoppers market.
+image: /images/posts/2014-08-01-august-2014-investor-letter/america.jpg
 ---
 
 * TOC
