@@ -1,3 +1,8 @@
+---
+title: October 2014 Investor Letter
+excerpt: As most of the world is just now waking up to the reality that the markets are dancing without a floor, KCM is starting to bottom feed.   
+image: /images/posts/2014-10-01-october-2014-investor-letter/autumn.jpg
+---
 
 * TOC
 {:toc}
