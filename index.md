@@ -49,5 +49,5 @@ At KCM we understand this is a virtuous circle.  The better you do, the better w
 
 </div>
 
-{% include timely.html %}
-{% include recent-posts.html %}
+{% include recent-posts-with-images.html %}
+

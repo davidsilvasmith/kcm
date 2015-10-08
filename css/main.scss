@@ -42,3 +42,14 @@ div.blog-cover>section>div.container>h4 {
     background-color: rgba(0,0,0,0.5);
     padding: 5px;
 }
+
+li.blg-post-item {
+    max-width: 200px;
+    display: inline;
+    float: left;
+    margin: 10px;
+}
+
+li.blg-post-item a img {
+ max-height: 200px;
+}
