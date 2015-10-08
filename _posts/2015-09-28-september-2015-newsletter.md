@@ -116,7 +116,7 @@ Rounding out this sample of absurdity. Let me start with a question.
 
 If Chicago or New York, or anywhere with an established Medallion revenue stream begins to lose 10%, 20% or more of their Medallion fees because E-hail services like Uber drive the Street Hail taxi cab providers out of business, how long will it take before the cities decide they need to find a way to recoup that lost revenue?
 
-![](/images/posts/2015-09-28-september-2015-newsletter/Issuer_Epiphany_9.28.2015v2_Page_06_Image_0001.jpg)
+![]( /images/posts/2015-09-28-september-2015-newsletter/Issuer_Epiphany_9.28.2015v2_Page_07_Image_0001.jpg)
 
 ￼To the surprise of few Uber lovers, TAXI which does Medallion Financing has gotten hit. Medallion loan delinquencies and defaults are rising rapidly. Across the industry Medallion debt portfolios are stressed.
 
