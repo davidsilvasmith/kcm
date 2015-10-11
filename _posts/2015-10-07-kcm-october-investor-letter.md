@@ -23,7 +23,7 @@ Foreign wars?  We just gave policing of the Middle East over to Russia and China
 
 Interest on Debt?  If the Fed pays 0 -3% forever?
 
-Outflows for foreign oil?  That’s a little more complex.  During the 14 years of post-Afghanistan invasion, the US built out its domestic oil.  Brazil built out theirs, with the US’s help.  China is now launching EV, EV battery exchange and ICE/EV carbon exchange type credits.  The US has in place the infrastructure to shift to LNG / CNG / RNG for trucking.  Westport’s ISL G was just approved by California’s Air Resource Board and the EPA as being Near 0 emissions.  (Long WPRT, not a recommendation).  Can you say ARB subsidy??
+Outflows for foreign oil?  That’s a little more complex.  During the 14 years of post-Afghanistan invasion, the US built out its domestic oil.  Brazil built out theirs, with the US’s help.  China is now launching EV, EV battery exchange and ICE/EV carbon exchange type credits.  The US has in place the infrastructure to shift to LNG / CNG / RNG for trucking.  Westport’s ISL G [was just approved by California’s Air Resource Board](http://finance.yahoo.com/news/isl-g-near-zero-natural-200500346.html) and the EPA as being Near 0 emissions.  (Long WPRT, not a recommendation).  Can you say ARB subsidy??
 
 The EV drive system manufacturer in position to benefit from CARB subsidies is UQM. No Position, Not a Recommendation. 
 
