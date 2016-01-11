@@ -1,6 +1,6 @@
 ---
 title: KCM January Investor Letter
-excerpt: Over the past year we’ve been playing insanely tight defense.  But the focus is starting to change.  Now that the main market has finally let go a little bit we’ve been able to start putting money back to work in carnage plays for our clients.  Not a lot of money, but a little; an opportunistic first nibble which we don’t think we’ll have to unwind.
+excerpt: The market is moving into what we see as the healthy correction.  Everyday people are focused on being everyday people living everyday lives enjoying time with others. It seems as though the only ones who haven’t reconciled their existence to the new realities are the central bankers and financiers who have been practicing financial engineering.  Financial Engineering is PC for market manipulation. 
 permalink: /kcm-january-2016-investor-letter/
 image:   /images/posts/2016-01-11-kcm-january-investor-letter/winter-2016.jpg
 
