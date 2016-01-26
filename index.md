@@ -51,3 +51,16 @@ At KCM we understand this is a virtuous circle.  The better you do, the better w
 
 {% include recent-posts-with-images.html %}
 
+
+<div class = "blg-post-item">
+<a href="/harvest-recognition.html">
+      <h2>Harvest Recognition</h2>
+	<p class="blg-post-byline">by BY TODD KRAJNIAK — APRIL 10, 2015</p>
+<img src="/images/posts/2015-04-10-harvest-recognition/gold-medal-winner.jpg" alt="Harvest Recognition">
+<p>This week HVST.com “Harvest”, the finance industry’s qualitative information exchange bestowed upon KCM the highest professional honor a firm can receive. The respect of association.</p>
+
+      <p class="btn btn-md btn-success" role="button">READ POST</p>
+      <br />
+      <br />
+ </a> 
+</div>
