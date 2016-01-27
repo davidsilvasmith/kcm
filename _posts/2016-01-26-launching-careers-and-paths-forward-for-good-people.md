@@ -6,11 +6,6 @@ image:  /images/posts/2016-01-26-launching-careers-and-paths-forward-for-good-pe
 skipboiler: true
 ---
 
-Launching Careers and Paths Forward for Good People
-
-Todd Krajniak
-CEO 
-
 ##KCM History
 KCM has been in existence as a Registered Investment Adviser since 2008. For our investors we have brought a particularly unique perspective to investing in deep value and newly developing publicly traded companies.  This unique perspective in analyzing an investment’s potential comes from my business entrepreneurial path. 
 
@@ -52,10 +47,10 @@ KCM’s door is open for people who are looking for an honest income solution.  
  
  1. Our long term concern for reps.  Everyone gets to a certain point of autonomy; then they want to just enjoy life.  As a company we need to know what that is for you.  Some people want to develop large incomes. Others want a few thousand a month in income through their retirement so they can fish.  
 
-If you’d like to sit down to see more specifically if there is a fit between you and KCM, send me an email Toddkrajniak@krajniakcapital.com or give us a call at 517.204.9140 to schedule a time to meet.
+If you’d like to sit down to see more specifically if there is a fit between you and KCM, send me an email [Toddkrajniak@krajniakcapital.com](toddkrajniak@krajniakcapital.com) or give us a call at 517.204.9140 to schedule a time to meet.
 
-Happy to help,
-Todd Krajniak
+Happy to help,<br>
+Todd Krajniak<br>
 CEO
 
 {% include become-a-rep-signup.html %}

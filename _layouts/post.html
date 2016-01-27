@@ -20,7 +20,7 @@ includeHeader: blog-image.html
 		  {% include newsletter-boiler.html %}
 		{% endif %}
     </section>
-
+    {% if page.skipboiler == false %}
     <footer>
         <address>
            {% if author.image %}<img src="{{ author.image }}">{% endif %}
@@ -28,8 +28,8 @@ includeHeader: blog-image.html
             <span class="muted">{{ author.description }}</span>
             </p>
         </address>
-
     </footer>
+    {% endif %}
     <br />
     <br />
     <br />
