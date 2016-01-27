@@ -3,6 +3,7 @@ title: Launching Careers and Paths Forward for Good People
 excerpt: If you have made 60k / year and have had 2 kids, the odds of having $2.5 million off which to retire are very slim.  People need a mechanism to generate sustainable long term income.
 permalink: /launching-careers-and-paths-forward-for-good-people/
 image:  /images/posts/2016-01-26-launching-careers-and-paths-forward-for-good-people/team.jpg
+skipboiler: true
 ---
 
 Launching Careers and Paths Forward for Good People

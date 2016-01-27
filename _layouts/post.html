@@ -16,8 +16,9 @@ includeHeader: blog-image.html
 
     <section>
         {{ content }}
-
-		{% include newsletter-boiler.html %}
+        {% if page.skipboiler == false %}
+		  {% include newsletter-boiler.html %}
+		{% endif %}
     </section>
 
     <footer>
