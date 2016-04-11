@@ -4,6 +4,7 @@ excerpt: If you have made 60k / year and have had 2 kids, the odds of having $2.
 permalink: /launching-careers-and-paths-forward-for-good-people/
 image:  /images/posts/2016-01-26-launching-careers-and-paths-forward-for-good-people/team.jpg
 skipboiler: true
+published: false
 ---
 
 ##KCM History
