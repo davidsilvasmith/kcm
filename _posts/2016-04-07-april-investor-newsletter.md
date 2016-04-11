@@ -1,6 +1,6 @@
 ---
 title: KCM April Investor Letter
-excerpt: excerpt
+excerpt: We feel compelled to be very conservative with respect to any position which resonates as established or known. And we’ll keep making our list of ideas and concepts which should be well received by reality regardless of market functionality.
 permalink: /kcm-april-2016-investor-letter/
 image:   /images/posts/2016-04-07-april-investor-newsletter/kcm-april-2016.jpg
 
