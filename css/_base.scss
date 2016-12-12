@@ -7,6 +7,7 @@ body {
     -webkit-font-smoothing:antialiased;
     text-rendering:optimizelegibility;
     font-size:17px;
+    background-color: transparent !important;
 }
 
 .is-visible {
@@ -171,8 +172,8 @@ img {
 .site-footer {
     padding:5em 0;
     margin:4em 0 0 0;
-    background:whitesmoke;;
-    color:#aaa;
+    background-color: rgba(245,245,245, .9);
+    color:#000;
     font-size:0.8em;
     
     a {
@@ -186,7 +187,6 @@ img {
     }
     
     p {
-        color:#999;
         a {
             margin:0;
             color:#999;

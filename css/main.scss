@@ -53,3 +53,17 @@ li.blg-post-item {
 li.blg-post-item a img {
  max-height: 200px;
 }
+
+
+.c-homepage { 
+  background: url(/images/people-crowd.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.c-brand {
+    max-width:75px;
+    max-height:75px;
+}

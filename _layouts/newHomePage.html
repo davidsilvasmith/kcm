@@ -1,0 +1,69 @@
+
+<!DOCTYPE html>
+<html class="c-homepage" lang="en">
+<head> 
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{page.excerpt}}">
+    {%if page.keywords %}<meta name="keywords" content ="{{page.keywords}}">{% endif %}
+    <meta name="author" content="{{site.data.people.todd.name}}">
+    <link rel="apple-touch-icon" sizes="57x57" href="/images/favicons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/images/favicons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/favicons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/images/favicons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/favicons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/images/favicons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/images/favicons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/images/favicons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/images/favicons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/images/favicons/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/images/favicons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/images/favicons/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/images/favicons/manifest.json">
+    <link rel="shortcut icon" href="/images/favicons/favicon.ico">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-TileImage" content="/images/favicons/mstile-144x144.png">
+    <meta name="msapplication-config" content="/images/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="canonical" href="{{ site.data.information.url }}{{ page.url|remove:'index.html' }}">
+    {% if site.data.information.gplus %}<link rel="publisher" href="https://plus.google.com/{{ site.data.information.gplus }}">{% endif %}
+    {% if author.gplus %}<link rel="author" href="https://plus.google.com/{{ author.gplus }}">{% endif %}
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-TileImage" content="/images/favicons/mstile-144x144.png">
+    <meta name="msapplication-config" content="/images/favicons/browserconfig.xml">
+    <meta name="application-name" content="{{ site.data.information.company }}">
+    <meta name="apple-mobile-web-app-title" content="{{ site.data.information.company }}">
+    <link rel="image_src" href="{{site.data.information.logo}}" />
+    <meta property="og:title" content="{{page.title}} {{page.subtitle}}" />
+    <meta property="og:url" content="{{site.data.information.url}}{{page.url}}" />
+    {{page.meta}}
+    <title>{{page.title}} {{page.subtitle}}</title>
+    <link href='//fonts.googleapis.com/css?family=Montserrat%7CMuli' rel='stylesheet' type='text/css'>
+    <link href="/css/main.css" rel="stylesheet" >
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+<div class="container text-center c-brand">
+    <img src="/images/branding/kcm-pie.png">
+</div>
+<footer class="site-footer">
+    <div class="container text-center">
+        <p> &copy; {{ site.time | date: "%Y" }} {{ site.data.information.company }}</p>
+        <p>1219 1/2 Turner St. Town Lansing, MI 48906  </p>
+        <p>517.204.9140 </p>
+
+        <p>Krajniak Capital Management, LLC ("KCM") is an Investment Adviser registered with the State of Michigan. KCM may only engage in providing advisory services in Michigan or states where it is exempt from registration.</p>
+    </div>
+
+</footer>
+</body>
+</html>
